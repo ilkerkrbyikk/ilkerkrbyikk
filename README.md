@@ -1,16 +1,6 @@
 <h1 align="left">Hey 👋</h1>
 
-###
 
-<p align="left"></p>
-
-###
-
-<h2 align="left"></h2>
-
-###
-
-<p align="left"></p>
 
 ###
 
